@@ -5,21 +5,3 @@ body {
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
   background-color: #1f2833;
 }
-
-.particleheader {
-  font-size : 4em;
-  margin-top : 350px;
-  text-align: center;
-  color : #66fcf1;
-}
-
-.h1 {
-  color : white;
-  font-size : 4em;
-  text-align: center;
-  z-index: 2;
-}
-
-.container {
-  z-index: 1;
-}
