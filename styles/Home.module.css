@@ -6,10 +6,20 @@
   min-height: 100vh;
   padding: 4rem 0;
 }
-
+.container {
+  z-index: 1;
+}
 .title {
   line-height: 1.15;
   font-size: 4rem;
+}
+
+.title h1 {
+  margin: 0;
+  font-size: 4rem;
+  z-index: 2 ;
+  line-height: 1.15;
+  color : white;
 }
 
 .title a {
